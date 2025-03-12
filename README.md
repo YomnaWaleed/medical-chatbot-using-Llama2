@@ -1,10 +1,12 @@
 # medical chatbot using Llama2
+
+
 ## steps to run the project 
 
-'''bash
+```bash
 conda create -n mchatbot python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate mchatbot
-'''
+```
