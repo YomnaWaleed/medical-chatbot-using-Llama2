@@ -3,4 +3,6 @@ sentence-transformers== 2.2.2
 weaviate-client==3.25.2
 langchain==0.0.225
 flask
+pypdf
+python-dotenv
 
