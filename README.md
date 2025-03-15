@@ -34,3 +34,26 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
 ```
+
+```bash
+# run the following command
+python store_index.py
+```
+
+```bash
+# Finally run the flollowin command
+python app.py
+```
+
+Now, 
+```bash 
+open up localhost:
+```
+
+### Techstack Used:
+
+- Python
+- Langchain
+- Flask 
+- Meta Llama2
+- Pinecone
