@@ -33,6 +33,8 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ## From the following Link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
+## then add it in model folder 
+
 ```
 
 ```bash
@@ -56,4 +58,4 @@ open up localhost:
 - Langchain
 - Flask 
 - Meta Llama2
-- Pinecone
+- FAISS
